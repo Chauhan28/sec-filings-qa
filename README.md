@@ -5,6 +5,8 @@
 
 [![Demo video](Demo.png)](https://youtu.be/N576NmwRQnU)
 
+CLICK THE IMAGE ABOVE FOR THE DEMO
+
 A 90-second walkthrough: qualitative question, numeric question, and a refusal on an unanswerable one.
 
 A question-answering web app over the latest SEC 10-K filings of 10 public companies. Ask a question in plain English, and the app retrieves the most relevant passages from the filings and has an LLM answer using only that context.
