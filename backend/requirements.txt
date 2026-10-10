@@ -1,0 +1,39 @@
+# Web framework
+fastapi
+
+# ASGI server for running FastAPI apps
+uvicorn
+
+# LangChain core + community modules
+langchain
+langchain-community
+
+# LangChain provider for OpenAI
+langchain-openai
+
+# Direct OpenAI SDK (used internally by LangChain)
+openai
+
+# Tokenizer used by OpenAI models (needed for token counting)
+tiktoken
+
+# Vector database used for retrieval
+faiss-cpu
+
+# Data validation and API schema
+pydantic
+
+# Load environment variables from .env
+python-dotenv
+
+# Async HTTP client, used by LangChain/OpenAI under the hood
+httpx
+
+# For evaluation (F1 scoring)
+scikit-learn
+
+# For evaluation output and logging
+pandas
+
+# Styled terminal output for logs, banners, and panels
+rich

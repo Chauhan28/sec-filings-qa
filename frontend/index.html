@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Temporary Chat</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="scroll-container">
+    <div class="sparkles" id="sparkles"></div>
+    <div class="main-content">
+      <!-- Header -->
+      <div class="header">
+        <i class="fas fa-comment-dots"></i>
+        <h1>Temporary Chat</h1>
+      </div>
+      <div class="header-statement">
+        Your messages stay private. Everything vanishes when you close the app.
+      </div>
+      <div class="header-datetime">
+        Thursday, May 22, 2025, 04:17 AM CDT
+      </div>
+
+      <!-- Answer Display Box -->
+      <div class="answer-box" id="answerBox">
+        Your answers will be displayed here.
+      </div>
+
+      <!-- Input Area -->
+      <div class="chat-input">
+        <input type="text" id="chatInput" placeholder="Type your message..." onkeypress="if(event.key === 'Enter') sendMessage()">
+        <button onclick="sendMessage()" title="Send"><i class="fas fa-paper-plane"></i></button>
+      </div>
+
+      <!-- Controls -->
+      <div class="controls">
+        <button class="new-chat" onclick="newChat()">
+          <i class="fas fa-plus"></i> New Chat
+        </button>
+        <button class="clear-chat" onclick="clearChat()">
+          <i class="fas fa-trash"></i> Clear Chat
+        </button>
+      </div>
+
+      <!-- Footer -->
+      <div class="footer">
+        AI can make mistakes. Check important info.
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

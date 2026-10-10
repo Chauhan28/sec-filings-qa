@@ -1,0 +1,162 @@
+[
+  {
+    "company": "Apple (AAPL)",
+    "question": "What was Apple's total net sales in 2023?"
+  },
+  {
+    "company": "Apple (AAPL)",
+    "question": "What are Apple\u2019s main product revenue categories?"
+  },
+  {
+    "company": "Apple (AAPL)",
+    "question": "What risks did Apple highlight related to global supply chain disruptions?"
+  },
+  {
+    "company": "Apple (AAPL)",
+    "question": "How much did Apple spend on research and development?"
+  },
+  {
+    "company": "Apple (AAPL)",
+    "question": "What is Apple\u2019s segment revenue by region?"
+  },
+  {
+    "company": "Microsoft (MSFT)",
+    "question": "What were Microsoft\u2019s total revenue and net income for fiscal 2023?"
+  },
+  {
+    "company": "Microsoft (MSFT)",
+    "question": "How much revenue did Microsoft generate from Intelligent Cloud?"
+  },
+  {
+    "company": "Microsoft (MSFT)",
+    "question": "What does Microsoft report about cybersecurity risks?"
+  },
+  {
+    "company": "Microsoft (MSFT)",
+    "question": "What are Microsoft\u2019s key growth strategies mentioned in the 10-K?"
+  },
+  {
+    "company": "Microsoft (MSFT)",
+    "question": "How has Microsoft\u2019s revenue from LinkedIn changed?"
+  },
+  {
+    "company": "Tesla (TSLA)",
+    "question": "What were Tesla\u2019s vehicle production and delivery numbers for 2023?"
+  },
+  {
+    "company": "Tesla (TSLA)",
+    "question": "What were Tesla\u2019s capital expenditures related to gigafactories?"
+  },
+  {
+    "company": "Tesla (TSLA)",
+    "question": "What energy generation and storage revenue did Tesla report?"
+  },
+  {
+    "company": "Tesla (TSLA)",
+    "question": "How does Tesla describe its competitive landscape?"
+  },
+  {
+    "company": "Tesla (TSLA)",
+    "question": "What regulatory credits revenue did Tesla disclose?"
+  },
+  {
+    "company": "Amazon (AMZN)",
+    "question": "What was Amazon\u2019s total operating income in 2023?"
+  },
+  {
+    "company": "Amazon (AMZN)",
+    "question": "What was the net sales contribution from AWS?"
+  },
+  {
+    "company": "Amazon (AMZN)",
+    "question": "What logistics and fulfillment infrastructure investments were discussed?"
+  },
+  {
+    "company": "Amazon (AMZN)",
+    "question": "What risks does Amazon list regarding third-party sellers?"
+  },
+  {
+    "company": "Amazon (AMZN)",
+    "question": "How did Amazon\u2019s international segment perform?"
+  },
+  {
+    "company": "JPMorgan Chase (JPM)",
+    "question": "What were JPMorgan Chase's net interest income and total assets?"
+  },
+  {
+    "company": "JPMorgan Chase (JPM)",
+    "question": "What risks related to inflation or interest rates were discussed?"
+  },
+  {
+    "company": "JPMorgan Chase (JPM)",
+    "question": "How does JPMorgan break down its business segments?"
+  },
+  {
+    "company": "JPMorgan Chase (JPM)",
+    "question": "What litigation risks were disclosed?"
+  },
+  {
+    "company": "JPMorgan Chase (JPM)",
+    "question": "What was the provision for credit losses in 2023?"
+  },
+  {
+    "company": "NVIDIA (NVDA)",
+    "question": "What was NVIDIA\u2019s total revenue from data center products?"
+  },
+  {
+    "company": "NVIDIA (NVDA)",
+    "question": "What does NVIDIA disclose about risks in AI and GPU markets?"
+  },
+  {
+    "company": "NVIDIA (NVDA)",
+    "question": "What percentage of revenue came from gaming?"
+  },
+  {
+    "company": "NVIDIA (NVDA)",
+    "question": "How much did NVIDIA invest in research and development?"
+  },
+  {
+    "company": "NVIDIA (NVDA)",
+    "question": "What was NVIDIA\u2019s international revenue exposure?"
+  },
+  {
+    "company": "Walmart (WMT)",
+    "question": "What was Walmart\u2019s total consolidated revenue for the year?"
+  },
+  {
+    "company": "Walmart (WMT)",
+    "question": "How did Walmart\u2019s U.S. vs. International segment perform?"
+  },
+  {
+    "company": "Walmart (WMT)",
+    "question": "What does Walmart report about inflationary pressure?"
+  },
+  {
+    "company": "Walmart (WMT)",
+    "question": "What were Walmart's capital expenditures for digital transformation?"
+  },
+  {
+    "company": "Walmart (WMT)",
+    "question": "What risks does Walmart associate with inventory shrinkage?"
+  },
+  {
+    "company": "Meta (META)",
+    "question": "What is Meta\u2019s total advertising revenue in 2023?"
+  },
+  {
+    "company": "Meta (META)",
+    "question": "What is Reality Labs\u2019 operating loss as reported?"
+  },
+  {
+    "company": "Meta (META)",
+    "question": "How does Meta address risks around regulatory compliance?"
+  },
+  {
+    "company": "Meta (META)",
+    "question": "What does Meta report about user engagement metrics (e.g., DAUs)?"
+  },
+  {
+    "company": "Meta (META)",
+    "question": "What were Meta\u2019s total expenses related to content moderation?"
+  }
+]

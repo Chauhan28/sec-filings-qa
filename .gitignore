@@ -1,0 +1,87 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# === Virtual Environment ===
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === VSCode ===
+.vscode/
+
+# === Bytecode cache ===
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# === FastAPI / Uvicorn logs ===
+*.log
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Test / Debug Files ===
+*.bak
+*.swp
+
+# === Environment and Config ===
+.env
+.env.*
+!.env.example
+*.env
+
+# === Frontend Builds (if added later) ===
+dist/
+node_modules/
+build/
+
+# === Docker ===
+*.pid
+*.tar
+docker-compose.override.yml
+docker-compose.debug.yml
+
+# === Cache ===
+.cache/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+__pypackages__/
+
+# === MyPy, Pyright, Pytest ===
+.mypy_cache/
+.pytest_cache/
+.pyright/
+
+# === Project Specific ===
+
+secrets/
+api_keys.json
+auth_code.json
+
+
+.env
+venv/
+
+backend/app/config.py
+
+
+.env
+venv/
+backend/app/config.py
+data/raw/
+data/parsed/
+__pycache__/
+.DS_Store
